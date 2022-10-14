@@ -1,0 +1,103 @@
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Release\攒机助手.csproj.ResolveComReference.cache
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csproj.ResolveComReference.cache
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\bin\Release\Office.dll
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\bin\Release\Microsoft.Office.Interop.Word.dll
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.AboutBox1.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.Activate.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.admin.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手商业版.changepw.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.databaseview.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.Feedback.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.Form1.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手商业版.impoartdata.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手商业版.login.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.priceupdate.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.update.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csproj.GenerateResource.Cache
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csprojResolveAssemblyReference.cache
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\bin\Release\攒机助手专业版.exe
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\bin\Release\攒机助手专业版.pdb
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Properties.Resources.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.exe
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.pdb
+E:\MyProgram\攒机助手Pro\攒机助手\bin\Release\攒机助手专业版.exe.config
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csproj.ResolveComReference.cache
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.exe
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.pdb
+E:\MyProgram\攒机助手Pro\攒机助手\bin\Release\攒机助手专业版.exe
+E:\MyProgram\攒机助手Pro\攒机助手\bin\Release\攒机助手专业版.pdb
+E:\MyProgram\攒机助手Pro\攒机助手\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\MyProgram\攒机助手Pro\攒机助手\bin\Release\Office.dll
+E:\MyProgram\攒机助手Pro\攒机助手\bin\Release\Microsoft.Office.Interop.Word.dll
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.AboutBox1.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Activate.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Admin.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.ChangePW.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.DataBaseViewer.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Form1.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.ImpoartData.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Login.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.MemoryManager.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.PriceUpdate.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Profit.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Properties.Resources.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.RememberName.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Settings.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Update.resources
+E:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csproj.GenerateResource.Cache
+D:\MyProgram\攒机助手Pro\攒机助手\bin\Release\攒机助手专业版.exe.config
+D:\MyProgram\攒机助手Pro\攒机助手\bin\Release\攒机助手专业版.exe
+D:\MyProgram\攒机助手Pro\攒机助手\bin\Release\攒机助手专业版.pdb
+D:\MyProgram\攒机助手Pro\攒机助手\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\MyProgram\攒机助手Pro\攒机助手\bin\Release\stdole.dll
+D:\MyProgram\攒机助手Pro\攒机助手\bin\Release\Office.dll
+D:\MyProgram\攒机助手Pro\攒机助手\bin\Release\Microsoft.Office.Interop.Word.dll
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csproj.ResolveComReference.cache
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.AboutBox1.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Activate.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Admin.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.ChangePW.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.DataBaseViewer.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Form1.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.ImpoartData.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Login.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.MemoryManager.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.PriceUpdate.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Profit.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Properties.Resources.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.RememberName.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Settings.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Update.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csproj.GenerateResource.Cache
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.exe
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.pdb
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csprojResolveAssemblyReference.cache
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\bin\Release\攒机助手专业版.exe.config
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\bin\Release\攒机助手专业版.exe
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\bin\Release\攒机助手专业版.pdb
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\bin\Release\stdole.dll
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\bin\Release\Office.dll
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csprojAssemblyReference.cache
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csproj.ResolveComReference.cache
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.AboutBox1.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Activate.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Admin.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.ChangePW.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.DataBaseViewer.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Form1.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.ImpoartData.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Login.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.MemoryManager.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.PriceUpdate.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Profit.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Properties.Resources.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.RememberName.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Settings.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.Update.resources
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csproj.GenerateResource.cache
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csproj.CoreCompileInputs.cache
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手.csproj.CopyComplete
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.exe
+C:\Users\luobotou\OneDrive - University College Dublin\Program\攒机助手Pro\攒机助手\obj\x86\Release\攒机助手专业版.pdb

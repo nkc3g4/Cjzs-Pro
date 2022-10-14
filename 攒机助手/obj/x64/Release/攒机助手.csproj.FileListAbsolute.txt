@@ -1,0 +1,13 @@
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x64\Release\攒机助手.csproj.ResolveComReference.cache
+C:\Users\liair\Desktop\攒机助手\攒机助手\bin\x64\Release\攒机助手.exe
+C:\Users\liair\Desktop\攒机助手\攒机助手\bin\x64\Release\Office.dll
+C:\Users\liair\Desktop\攒机助手\攒机助手\bin\x64\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x64\Release\攒机助手.csprojResolveAssemblyReference.cache
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x64\Release\攒机助手.AboutBox1.resources
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x64\Release\攒机助手.confile.resources
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x64\Release\攒机助手.Feedback.resources
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x64\Release\攒机助手.Form1.resources
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x64\Release\攒机助手.Properties.Resources.resources
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x64\Release\攒机助手.update.resources
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x64\Release\攒机助手.csproj.GenerateResource.Cache
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x64\Release\攒机助手.exe

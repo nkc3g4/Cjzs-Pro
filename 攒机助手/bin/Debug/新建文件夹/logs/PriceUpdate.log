@@ -1,0 +1,37 @@
+攒机助手专业版4.6.0.0
+2014/7/21 15:31:00
+2014/7/21 15:30:41 配置文件加载完毕
+2014/7/21 15:30:41 进程已启动
+2014/7/21 15:30:42 intEl 赛扬 G1620(盒) 215
+2014/7/21 15:30:45 进程已启动
+2014/7/21 15:30:46 威刚 2GB DDR3 1600(万紫千红) 127
+2014/7/21 15:30:47 威刚 4GB DDR3 1600(万紫千红) 241
+2014/7/21 15:30:47 威刚 4GB DDR3 1600 (x2 万紫千红)http://s.taobao.com/search?q=%cd%fe%b8%d5%20%34%47%42%20%44%44%52%33%20%31%36%30%30%20%28%78%32%20%cd%f2%d7%cf%c7%a7%ba%ec%29&style=listSystem.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+   在 System.Globalization.CompareInfo.IndexOf(String source, String value, Int32 startIndex, Int32 count, CompareOptions options)
+   在 System.Globalization.CompareInfo.IndexOf(String source, String value, Int32 startIndex)
+   在 System.String.IndexOf(String value, Int32 startIndex)
+   在 攒机助手专业版.priceupdate.GetTaobaoPrice(String hw, Int32 originalprice) 位置 d:\MyProgram\攒机助手Pro\攒机助手\priceupdate.cs:行号 97
+2014/7/21 15:30:48 威刚 8GB DDR3 1600(万紫千红) 456
+2014/7/21 15:30:49 金士顿 4GB DDR3 1600 216
+2014/7/21 15:30:50 金士顿 8GB DDR3 1600 454
+2014/7/21 15:30:51 金士顿 8GB DDR3 1600 (x2)http://s.taobao.com/search?q=%bd%f0%ca%bf%b6%d9%20%38%47%42%20%44%44%52%33%20%31%36%30%30%20%28%78%32%29&style=listSystem.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+   在 System.Globalization.CompareInfo.IndexOf(String source, String value, Int32 startIndex, Int32 count, CompareOptions options)
+   在 System.Globalization.CompareInfo.IndexOf(String source, String value, Int32 startIndex)
+   在 System.String.IndexOf(String value, Int32 startIndex)
+   在 攒机助手专业版.priceupdate.GetTaobaoPrice(String hw, Int32 originalprice) 位置 d:\MyProgram\攒机助手Pro\攒机助手\priceupdate.cs:行号 97
+2014/7/21 15:30:51 金士顿HyperX 8GB DDR3 1600 500
+2014/7/21 15:30:52 金士顿HyperX 8GB DDR3 1600 (x2)http://s.taobao.com/search?q=%bd%f0%ca%bf%b6%d9%48%79%70%65%72%58%20%38%47%42%20%44%44%52%33%20%31%36%30%30%20%28%78%32%29&style=listSystem.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+   在 System.Globalization.CompareInfo.IndexOf(String source, String value, Int32 startIndex, Int32 count, CompareOptions options)
+   在 System.Globalization.CompareInfo.IndexOf(String source, String value, Int32 startIndex)
+   在 System.String.IndexOf(String value, Int32 startIndex)
+   在 攒机助手专业版.priceupdate.GetTaobaoPrice(String hw, Int32 originalprice) 位置 d:\MyProgram\攒机助手Pro\攒机助手\priceupdate.cs:行号 97
+2014/7/21 15:30:53 芝奇RipjawsX DDR3 1600 16GB两条套装http://s.taobao.com/search?q=%d6%a5%c6%e6%52%69%70%6a%61%77%73%58%20%44%44%52%33%20%31%36%30%30%20%31%36%47%42%c1%bd%cc%f5%cc%d7%d7%b0&style=listSystem.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+   在 System.Globalization.CompareInfo.IndexOf(String source, String value, Int32 startIndex, Int32 count, CompareOptions options)
+   在 System.Globalization.CompareInfo.IndexOf(String source, String value, Int32 startIndex)
+   在 System.String.IndexOf(String value, Int32 startIndex)
+   在 攒机助手专业版.priceupdate.GetTaobaoPrice(String hw, Int32 originalprice) 位置 d:\MyProgram\攒机助手Pro\攒机助手\priceupdate.cs:行号 97
+

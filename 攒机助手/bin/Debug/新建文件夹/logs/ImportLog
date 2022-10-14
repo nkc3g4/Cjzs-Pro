@@ -1,0 +1,5 @@
+攒机助手专业版4.6.0.0
+2014/7/12 12:34:09
+System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 攒机助手专业版.impoartdata.button1_Click(Object sender, EventArgs e) 位置 d:\MyProgram\攒机助手Pro\攒机助手\impoartdata.cs:行号 181System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 攒机助手专业版.impoartdata.button1_Click(Object sender, EventArgs e) 位置 d:\MyProgram\攒机助手Pro\攒机助手\impoartdata.cs:行号 174

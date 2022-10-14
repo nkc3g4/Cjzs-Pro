@@ -1,0 +1,136 @@
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\bin\Debug\攒机助手.exe
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\bin\Debug\攒机助手.pdb
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Form1.resources
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Properties.Resources.resources
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.exe
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.pdb
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Feedback.resources
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.AboutBox1.resources
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.update.resources
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.confile.resources
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.GenerateResource.Cache
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\bin\Debug\Office.dll
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.ResolveComReference.cache
+C:\Users\Litc\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.ResolveComReference.cache
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.exe
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.pdb
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.AboutBox1.resources
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.confile.resources
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Feedback.resources
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Form1.resources
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Properties.Resources.resources
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.update.resources
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\bin\Debug\攒机助手.exe
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\bin\Debug\攒机助手.pdb
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\bin\Debug\Office.dll
+F:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.ResolveComReference.cache
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.exe
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.pdb
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\bin\Debug\攒机助手.exe
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\bin\Debug\攒机助手.pdb
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\bin\Debug\Office.dll
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.AboutBox1.resources
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.confile.resources
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Feedback.resources
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Form1.resources
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Properties.Resources.resources
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.update.resources
+G:\Documents\Visual Studio 2010\Projects\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.GenerateResource.Cache
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.ResolveComReference.cache
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.exe
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.pdb
+C:\Users\liair\Desktop\攒机助手\攒机助手\bin\Debug\攒机助手.exe
+C:\Users\liair\Desktop\攒机助手\攒机助手\bin\Debug\攒机助手.pdb
+C:\Users\liair\Desktop\攒机助手\攒机助手\bin\Debug\Office.dll
+C:\Users\liair\Desktop\攒机助手\攒机助手\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csprojResolveAssemblyReference.cache
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.AboutBox1.resources
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.confile.resources
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Feedback.resources
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Form1.resources
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Properties.Resources.resources
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.update.resources
+C:\Users\liair\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.GenerateResource.Cache
+F:\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.ResolveComReference.cache
+F:\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.exe
+F:\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.pdb
+D:\backup\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.ResolveComReference.cache
+D:\backup\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.exe
+D:\backup\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.pdb
+D:\backup\20120806\Desktop\攒机助手\攒机助手\bin\Debug\攒机助手.exe
+D:\backup\20120806\Desktop\攒机助手\攒机助手\bin\Debug\攒机助手.pdb
+D:\backup\20120806\Desktop\攒机助手\攒机助手\bin\Debug\Office.dll
+D:\backup\20120806\Desktop\攒机助手\攒机助手\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\backup\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csprojResolveAssemblyReference.cache
+D:\backup\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.AboutBox1.resources
+D:\backup\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.confile.resources
+D:\backup\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Feedback.resources
+D:\backup\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Form1.resources
+D:\backup\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Properties.Resources.resources
+D:\backup\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.update.resources
+D:\backup\20120806\Desktop\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.GenerateResource.Cache
+D:\MyProgram\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.ResolveComReference.cache
+D:\MyProgram\攒机助手\攒机助手\obj\x86\Debug\攒机助手.exe
+D:\MyProgram\攒机助手\攒机助手\obj\x86\Debug\攒机助手.pdb
+D:\MyProgram\攒机助手\攒机助手\bin\Debug\攒机助手.exe
+D:\MyProgram\攒机助手\攒机助手\bin\Debug\攒机助手.pdb
+D:\MyProgram\攒机助手\攒机助手\bin\Debug\Office.dll
+D:\MyProgram\攒机助手\攒机助手\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\MyProgram\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csprojResolveAssemblyReference.cache
+D:\MyProgram\攒机助手\攒机助手\obj\x86\Debug\攒机助手.AboutBox1.resources
+D:\MyProgram\攒机助手\攒机助手\obj\x86\Debug\攒机助手.confile.resources
+D:\MyProgram\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Feedback.resources
+D:\MyProgram\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Form1.resources
+D:\MyProgram\攒机助手\攒机助手\obj\x86\Debug\攒机助手.Properties.Resources.resources
+D:\MyProgram\攒机助手\攒机助手\obj\x86\Debug\攒机助手.update.resources
+D:\MyProgram\攒机助手\攒机助手\obj\x86\Debug\攒机助手.csproj.GenerateResource.Cache
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.csproj.ResolveComReference.cache
+D:\MyProgram\攒机助手Pro\攒机助手\bin\Debug\Office.dll
+D:\MyProgram\攒机助手Pro\攒机助手\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.csprojResolveAssemblyReference.cache
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.csproj.GenerateResource.Cache
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.csproj.ResolveComReference.cache
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手商业版.exe
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\bin\Debug\攒机助手商业版.exe
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\bin\Debug\攒机助手商业版.pdb
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\bin\Debug\Office.dll
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.csprojResolveAssemblyReference.cache
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.AboutBox1.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.Activate.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.admin.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.databaseview.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.Feedback.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.Form1.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手商业版.impoartdata.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.priceupdate.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手商业版.Properties.Resources.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.update.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手.csproj.GenerateResource.Cache
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手商业版.pdb
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手商业版.login.resources
+D:\myprogram+mysite\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手商业版.changepw.resources
+D:\MyProgram\攒机助手Pro\攒机助手\bin\Debug\攒机助手专业版.exe
+D:\MyProgram\攒机助手Pro\攒机助手\bin\Debug\攒机助手专业版.pdb
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.Properties.Resources.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.exe
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.pdb
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.Settings.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.AboutBox1.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.Activate.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.admin.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.databaseview.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.Form1.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.priceupdate.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.update.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.login.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.changepw.resources
+D:\MyProgram\攒机助手Pro\攒机助手\obj\x86\Debug\攒机助手专业版.impoartdata.resources
+D:\MyProgram\攒机助手Pro\攒机助手\bin\Debug\攒机助手专业版.exe.config
